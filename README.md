@@ -9,7 +9,7 @@ Then in your own project, adding the following code in **plugins.sbt**
 
 In **build.sbt**, adding <br />
 
-    enablePlugins(CodesGen) <br />
+    enablePlugins(CodesGen) 
 to enable this plugin in root. <br />
 
 Initialize some setting: <br />
