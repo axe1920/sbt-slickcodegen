@@ -14,7 +14,7 @@ to enable this plugin in root. <br />
 
 Initialize some setting: <br />
 
-    dbCategory := "mysql"
+    dbCategory := "mysql" //use "PostgreSQL" to generate codes for PostgreSQL
     
     dbUrl := "jdbc:mysql://localhost:3306/test?useOldAliasMetadataBehavior=true&zeroDateTimeBehavior=convertToNull"
     
