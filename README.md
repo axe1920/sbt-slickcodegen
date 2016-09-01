@@ -3,9 +3,9 @@ generate slick code by using sbt
 
 In this project root directory, type command <br />
     `sbt publishLocal` <br/>
-Then in your own project, adding the following code in **plugins.sbt** <br />
+Then in your own project, adding the following code in **plugins.sbt** 
 
-    addSbtPlugin("com.doddot" % "sbt-slickcodegen" % "1.0") <br />
+    addSbtPlugin("com.doddot" % "sbt-slickcodegen" % "1.0") 
 
 In **build.sbt**, adding <br />
 
