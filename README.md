@@ -1,4 +1,4 @@
- sbt-slickcodegen
+# sbt-slickcodegen
 generate slick code by using sbt
 
 In this project root directory, type command <br />
