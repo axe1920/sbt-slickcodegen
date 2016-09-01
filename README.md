@@ -33,7 +33,7 @@ The tuple in seq is a layout to indicate how to put codes generated for some tab
 1. The fourth element is a string to define a cotainer name in source code. 
 1. The fifth element is a string to define the name of source file generated.
 
-You also can let codesLayout go, then this plugin will generate codes for all table in dataset, and put the source file in "src/main/scala/models", named "Tables.scala"
+You can also let codesLayout go, then this plugin will generate codes for all table in dataset, and put the source file in "src/main/scala/models", named "Tables.scala"
 
 The last step is to generate the code: in your own project directory, type command
 
